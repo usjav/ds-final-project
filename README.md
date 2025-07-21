@@ -21,7 +21,7 @@ The dataset includes:
 ## 🛠️ Repository Contents
 ```
 ├── extract_data.ipynb      # IMDb scraping logic and raw data generation
-├── raw_data.csv                 # Unprocessed dataset
+├── raw_data.csv            # Unprocessed dataset
 ├── main.ipynb              # Data cleaning, EDA, visualizations, ML models
 ├── README.md               # Project overview and documentation
 ```
