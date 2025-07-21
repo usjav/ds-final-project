@@ -19,11 +19,12 @@ The dataset includes:
 - Provide actionable insights for studios and producers
 
 ## 🛠️ Repository Contents
+```
 ├── extract_data.ipynb      # IMDb scraping logic and raw data generation
 ├── raw_data.csv                 # Unprocessed dataset
 ├── main.ipynb              # Data cleaning, EDA, visualizations, ML models
 ├── README.md               # Project overview and documentation
-
+```
 
 ## ⚙️ Tools & Techniques
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
@@ -43,7 +44,7 @@ For a deeper narrative walkthrough and key takeaways:
 👉 [Read the blog post](https://medium.com/@abdulahadbukhari911/unveiling-the-directors-vision-a-deep-dive-into-movie-data-analytics-9cb140f5e6b4)
 
 ## 👥 Team Contributions
-This was possible by a brilliant team of 5 members [me, Bilal, Shaheer, Hasnain, Ahad] involved in scraping, cleaning, modeling, and presenting results. Collaboration was key in shaping this analytical story.
+This was possible by a brilliant team of 5 members [myself, Bilal, Shaheer, Hasnain, Ahad] involved in scraping, cleaning, modeling, and presenting results. Collaboration was key in shaping this analytical story.
 
 ## 💡 Future Improvements
 - Model tuning and validation with more complex ML architectures  
